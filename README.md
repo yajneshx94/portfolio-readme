@@ -1,6 +1,22 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Building scalable backend systems using Java & Spring Boot, and developing my Final Year Project: an AI-powered Content Generation System that integrates Wikipedia fetching and Qwen2 LLM with voice/text input-output.<br><br>👯 I’m looking to collaborate on  <br>Backend-focused projects involving REST APIs, microservices architecture, system design, and performance optimization using Java, Spring Boot, and databases.<br><br>🤝 I’m looking for help with  <br>Advanced system design concepts, scalable microservices patterns, and deploying AI-integrated backend applications in production.<br><br>🌱 I’m currently learning  <br>Data Structures & Algorithms for MAANG-level interviews, Spring Boot internals, system design, and large-scale backend architecture.<br><br>💬 Ask me about  <br>Java, Spring Boot, REST APIs, backend architecture basics, and building real-world projects from scratch.<br><br>⚡ Fun fact  <br>I enjoy breaking down complex backend concepts into simple logic.
 
+🔭 I’m currently working on  
+Building scalable backend systems using Java & Spring Boot, and developing my Final Year Project: a Log-Based Anomaly Detection & Predictive API Failure Monitoring System using Java (Spring Boot) and Machine Learning.
+
+👯 I’m looking to collaborate on  
+Backend-focused projects involving REST APIs, microservices architecture, distributed systems, and reliability engineering using Java and Spring Boot.
+
+🤝 I’m looking for help with  
+Advanced system design, scalable microservices patterns, backend performance optimization, and production-grade monitoring systems.
+
+🌱 I’m currently learning  
+Data Structures & Algorithms for product-based interviews, Spring Boot internals, system design fundamentals, and building resilient backend architectures.
+
+💬 Ask me about  
+Java, Spring Boot, REST APIs, backend architecture, authentication & authorization, and designing scalable APIs from scratch.
+
+⚡ Fun fact  
+I enjoy converting complex backend problems into clean, logical, production-style solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yajnesh-k-503023258) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yajneshrajan83@gmail.com) 
